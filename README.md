@@ -24,7 +24,7 @@ Here you can find some of my projects, which reflect my learning in game develop
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pmarqueslopes_icons=true&theme=highcontrast)
 
-
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=pmarqueslopes&theme=gruvbox&border_radius=4.5) -->
 
 #
 <!--
