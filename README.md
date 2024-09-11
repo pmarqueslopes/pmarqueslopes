@@ -22,7 +22,7 @@ Here you can find some of my projects, which reflect my learning in game develop
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmarqueslopes_icons=true&theme=highcontrast)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pmarqueslopes_icons=true&theme=highcontrast)
 
 
 
