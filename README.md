@@ -22,9 +22,9 @@ Here you can find some of my projects, which reflect my learning in game develop
 
 ### 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pmarqueslopes_icons=true&theme=highcontrast)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pmarqueslopes&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pmarqueslopes&theme=highcontrast&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=pmarqueslopes&theme=tokyonight&border_radius=4.5)
 
 #
 <!--
