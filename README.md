@@ -4,7 +4,7 @@
 ---
 [EN_US]
 
-Hi! I'm a game developer, Graduated from PUC Minas, I specialize in game development using Unity, where I have worked on various projects, ranging from simple 3D games to more complex experiences. Throughout my journey, I've focused on game mechanics, level design, AI programming, and performance optimization.
+Hi! I'm a game developer, graduated from PUC Minas, I specialize in game development using Unity, where I have worked on various projects, ranging from simple 3D games to more complex experiences. Throughout my journey, I've focused on game mechanics, level design, AI programming, and performance optimization.
 
 Here you can find some of my projects, which reflect my learning in game development. Feel free to explore!
 #
