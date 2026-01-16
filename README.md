@@ -4,53 +4,53 @@
 ---
 [EN_US]
 
-Hi! I'm a game developer, graduated from PUC Minas, I specialize in game development using Unity, where I have worked on various projects, ranging from simple 3D games to more complex experiences. Throughout my journey, I've focused on game mechanics, level design, AI programming, and performance optimization.
+Hi! I'm a game developer graduated from PUC Minas. During my degree, I worked mainly with Unity, building a solid foundation in game development concepts. After graduating, I decided to deepen my skills by transitioning to Unreal Engine, where I focused on learning C++, Blueprints, and multiplayer game development.
 
-Here you can find some of my projects, which reflect my learning in game development. Feel free to explore!
+Since then, I have taken specialized courses and developed personal projects to strengthen my knowledge of Unreal Engine’s architecture, gameplay systems, networking, and performance optimization. My goal is to create engaging, scalable, and technically solid game experiences.
+
+Here you can find some of my projects that represent this journey and my evolution as a game developer. Feel free to explore!
 #
 [PT_BR]
 
-Olá! Sou um desenvolvedor de jogos, graduando pela PUC Minas. Eu me especializo no desenvolvimento de jogos usando Unity, onde trabalhei em diversos projetos, desde jogos 3D simples até experiências mais complexas. Ao longo da minha jornada, foquei em mecânicas de jogo, design de níveis, programação de IA e otimização de desempenho.
+Olá! Sou um desenvolvedor de jogos formado pela PUC Minas. Durante a graduação, trabalhei principalmente com Unity, onde construí uma base sólida em conceitos fundamentais do desenvolvimento de jogos. Após me formar, decidi expandir meus conhecimentos e migrar para o Unreal Engine, focando no aprendizado de C++, Blueprints e desenvolvimento de jogos multiplayer.
 
-Aqui você pode encontrar alguns dos meus projetos, que refletem meu aprendizado no desenvolvimento de jogos. Fique à vontade para explorar!
+Desde então, realizei cursos especializados e desenvolvi projetos pessoais para aprofundar meu domínio da arquitetura do Unreal Engine, sistemas de gameplay, networking e otimização de desempenho. Meu objetivo é criar experiências de jogo envolventes, escaláveis e tecnicamente bem estruturadas.
+
+Aqui você pode encontrar alguns dos meus projetos, que refletem essa evolução e minha trajetória como desenvolvedor de jogos. Fique à vontade para explorar!
 
 
 ---
 
 ### 🧰 Languages and Tools
-
+<img align="left" alt="Unreal" width="50px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/unrealengine/original.svg?color=%23FFFDFD"/>
+<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Blender" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
 <br />
 
-
-#
-
-### 📊 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pmarqueslopes&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pmarqueslopes&theme=tokyonight&border_radius=4.5)
-
 #
 <details>
  <summary><h3>⚙ My GameDev Journey</h3></summary>
-  [EN_US]
+ [EN_US]
  
- My journey in game development began during my studies at PUC Minas, where I gained a solid foundation in various areas of game creation, including game programming, 3D modeling, animation, rigging, level design, game testing, and texture painting. With this knowledge, I explored different game genres and styles.
+My journey in game development started during my studies at PUC Minas, where I gained experience in multiple areas of game creation, such as game programming, 3D modeling, animation, rigging, level design, game testing, and texture painting.
 
-Over time, I have produced several projects, including an arcade game, a simulator, and a simple RPG. Currently, I’m working on a multiplayer heist game, focusing on teamwork while having fun with friends
+After graduating, I chose to specialize further by learning Unreal Engine and C++, focusing on understanding gameplay frameworks, engine architecture, and multiplayer systems. I actively practiced using Blueprints alongside C++ to build flexible and efficient gameplay features.
 
-This journey has allowed me to continuously grow as a developer, honing both technical and creative skills to craft engaging and dynamic experiences.
+Throughout this journey, I have developed projects such as arcade-style games, simulators, simple RPGs, and Currently, I am developing a multiplayer shooter in Unreal Engine, focusing on gameplay systems, network replication, competitive mechanics, and player cooperation.
+
+This continuous learning process has allowed me to grow both technically and creatively, always aiming to build immersive and polished game experiences.
 #
 [PT_BR]
 
-Minha jornada no desenvolvimento de jogos começou durante meus estudos na PUC Minas, onde adquiri uma base sólida em várias áreas da criação de jogos, incluindo programação de jogos, modelagem 3D, animação, rigging, level design, testes em jogos e pintura de texturas. Com esse conhecimento, explorei diferentes gêneros e estilos de jogos.
+Minha jornada no desenvolvimento de jogos começou durante meus estudos na PUC Minas, onde adquiri experiência em diversas áreas da criação de jogos, como programação, modelagem 3D, animação, rigging, level design, testes e pintura de texturas.
 
-Com o tempo, produzi vários projetos, incluindo um jogo arcade, um simulador e um RPG simples. Atualmente, estou trabalhando em um jogo multiplayer de heist, focado no trabalho em equipe e em se divertir com os amigos.
+Após a graduação, decidi me especializar ainda mais, focando no aprendizado de Unreal Engine e C++, com ênfase na compreensão do framework de gameplay, arquitetura da engine e sistemas multiplayer. Utilizei Blueprints em conjunto com C++ para desenvolver funcionalidades flexíveis e eficientes.
 
-Essa jornada me permitiu crescer continuamente como desenvolvedor, aprimorando tanto as habilidades técnicas quanto criativas para criar experiências envolventes e dinâmicas.
+Ao longo dessa trajetória, desenvolvi projetos como jogos arcade, simuladores e RPGs simples. Meu jogo multiplayer de heist foi desenvolvido em Unity como projeto de TCC. Atualmente, estou desenvolvendo um shooter multiplayer em Unreal Engine, com foco em networking, sistemas de gameplay e replicação.
+
+Esse processo contínuo de aprendizado me permitiu evoluir tanto tecnicamente quanto criativamente, sempre buscando criar experiências de jogo imersivas e bem acabadas.
 
 
 
