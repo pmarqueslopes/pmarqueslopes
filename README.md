@@ -51,6 +51,51 @@ Após a graduação, decidi me especializar ainda mais, focando no aprendizado d
 Ao longo dessa trajetória, desenvolvi projetos como jogos arcade, simuladores e RPGs simples. Meu jogo multiplayer de heist foi desenvolvido em Unity como projeto de TCC. Atualmente, estou desenvolvendo um shooter multiplayer em Unreal Engine, com foco em networking, sistemas de gameplay e replicação.
 
 Esse processo contínuo de aprendizado me permitiu evoluir tanto tecnicamente quanto criativamente, sempre buscando criar experiências de jogo imersivas e bem acabadas.
+</details>
+
+<details>
+ <summary><h3>🎥 Project Videos</h3></summary>
+
+ <details>
+ <summary><h4>🔫 The Heist (Unity) — Final Project (TCC)</h4></summary>
+
+ [![The Heist Gameplay](https://img.youtube.com/vi/fhf_o6CSuB4/0.jpg)](https://www.youtube.com/watch?v=fhf_o6CSuB4)
+
+ - Unity (C#)
+ - Multiplayer Heist Game
+ - Team-based Gameplay
+ - Networking & Player Interaction
+ - Final Graduation Project (TCC)
+
+</details>
+
+<details>
+ <summary><h4>💎 Hardcore (Unity)</h4></summary>
+
+ [![RPG Hardcore](https://img.youtube.com/vi/2mBwcjckFXg/0.jpg)](https://www.youtube.com/watch?v=2mBwcjckFXg)
+
+ - Unity (C#)
+ - Single-player RPG
+ - Turn-based Combat System
+ - Inventory System
+ - Character Progression
+
+</details>
+
+<details>
+ <summary><h4>🚗 Station 7 (Unity)</h4></summary>
+
+ [![Station 7](https://img.youtube.com/vi/C7vUNPtMbjw/0.jpg)](https://www.youtube.com/watch?v=C7vUNPtMbjw)
+
+ - Unity
+ - Single-player Simulator
+ - Gameplay Systems
+ - Player Interaction
+ - Prototype & Mechanics-focused Project
+
+</details>
 
 
+
+</details>
 
