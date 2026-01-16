@@ -60,6 +60,8 @@ Esse processo contínuo de aprendizado me permitiu evoluir tanto tecnicamente qu
  <summary><h4>🔫 The Heist (Unity) — Final Project (TCC)</h4></summary>
 
  [![The Heist Gameplay](https://img.youtube.com/vi/fhf_o6CSuB4/0.jpg)](https://www.youtube.com/watch?v=fhf_o6CSuB4)
+ 
+▶ Click to watch the demo on YouTube
 
  - Unity (C#)
  - Multiplayer Heist Game
@@ -73,6 +75,8 @@ Esse processo contínuo de aprendizado me permitiu evoluir tanto tecnicamente qu
  <summary><h4>💎 Hardcore (Unity)</h4></summary>
 
  [![RPG Hardcore](https://img.youtube.com/vi/2mBwcjckFXg/0.jpg)](https://www.youtube.com/watch?v=2mBwcjckFXg)
+ 
+ ▶ Click to watch the demo on YouTube
 
  - Unity (C#)
  - Single-player RPG
@@ -86,6 +90,8 @@ Esse processo contínuo de aprendizado me permitiu evoluir tanto tecnicamente qu
  <summary><h4>🚗 Station 7 (Unity)</h4></summary>
 
  [![Station 7](https://img.youtube.com/vi/C7vUNPtMbjw/0.jpg)](https://www.youtube.com/watch?v=C7vUNPtMbjw)
+ 
+ ▶ Click to watch the demo on YouTube
 
  - Unity
  - Single-player Simulator
@@ -95,6 +101,20 @@ Esse processo contínuo de aprendizado me permitiu evoluir tanto tecnicamente qu
 
 </details>
 
+<details>
+ <summary><h4>✨ VFX & Scene Art Showcase (Unity)</h4></summary>
+
+ [![VFX & Scene Art Showcase](https://img.youtube.com/vi/7YaQr4P-EW8/0.jpg)](https://www.youtube.com/watch?v=7YaQr4P-EW8)
+ 
+ ▶ Click to watch the demo on YouTube
+
+ - Unity (C#)
+ - Visual Effects (Particles & Shaders)
+ - Lighting & Environment Setup
+ - Scene Composition
+ - Artistic Polish & Gameplay Feel
+
+</details>
 
 
 </details>
