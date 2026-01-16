@@ -116,6 +116,21 @@ Esse processo contínuo de aprendizado me permitiu evoluir tanto tecnicamente qu
 
 </details>
 
+<details>
+ <summary><h4>🗺️ Level Design Showcase (Unity)</h4></summary>
+
+ [![Level Design Showcase](https://img.youtube.com/vi/ctV3OVDN4do/0.jpg)](https://www.youtube.com/watch?v=ctV3OVDN4do&t=10s)
+
+ ▶ Click to watch the demo on YouTube
+ 
+ - Unity (C#)
+ - Level Design & Composition
+ - Player Navigation & Flow
+ - Environment Layout
+ - Gameplay Flow Demonstration
+
+</details>
+
 
 </details>
 
